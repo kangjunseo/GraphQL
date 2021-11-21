@@ -1,6 +1,6 @@
 ## Environment
-DB : PostgresQL
-Back-end : GraphQL with Hasura, python, gql
+**DB : PostgresQL**   
+**Back-end : GraphQL with Hasura, python, gql**
 
 ## Before ADD
 ![image](https://user-images.githubusercontent.com/88201041/142752365-531412d2-ef8a-4530-a1ae-64496617a893.png)
